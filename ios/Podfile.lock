@@ -1,0 +1,168 @@
+PODS:
+  - amazon_s3_cognito (0.2.4):
+    - AWSCore
+    - AWSS3
+    - Flutter
+  - AWSCore (2.13.4)
+  - AWSS3 (2.13.4):
+    - AWSCore (= 2.13.4)
+  - camera (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_plugin_android_lifecycle (0.0.1):
+    - Flutter
+  - flutter_share (0.0.1):
+    - Flutter
+  - flutter_share_file (0.0.1):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - geolocator (5.3.1):
+    - Flutter
+  - google_api_availability (2.0.4):
+    - Flutter
+  - google_maps_flutter (0.0.1):
+    - Flutter
+    - GoogleMaps
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - image_picker (0.0.1):
+    - Flutter
+  - local_auth (0.0.1):
+    - Flutter
+  - location (0.0.1):
+    - Flutter
+  - location_permissions (2.0.5):
+    - Flutter
+  - location_web (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - path_provider_macos (0.0.1):
+    - Flutter
+  - permission (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - url_launcher (0.0.1):
+    - Flutter
+  - url_launcher_macos (0.0.1):
+    - Flutter
+  - url_launcher_web (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - amazon_s3_cognito (from `.symlinks/plugins/amazon_s3_cognito/ios`)
+  - camera (from `.symlinks/plugins/camera/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_plugin_android_lifecycle (from `.symlinks/plugins/flutter_plugin_android_lifecycle/ios`)
+  - flutter_share (from `.symlinks/plugins/flutter_share/ios`)
+  - flutter_share_file (from `.symlinks/plugins/flutter_share_file/ios`)
+  - geolocator (from `.symlinks/plugins/geolocator/ios`)
+  - google_api_availability (from `.symlinks/plugins/google_api_availability/ios`)
+  - google_maps_flutter (from `.symlinks/plugins/google_maps_flutter/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - local_auth (from `.symlinks/plugins/local_auth/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - location_permissions (from `.symlinks/plugins/location_permissions/ios`)
+  - location_web (from `.symlinks/plugins/location_web/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - path_provider_macos (from `.symlinks/plugins/path_provider_macos/ios`)
+  - permission (from `.symlinks/plugins/permission/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - url_launcher_macos (from `.symlinks/plugins/url_launcher_macos/ios`)
+  - url_launcher_web (from `.symlinks/plugins/url_launcher_web/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AWSCore
+    - AWSS3
+    - FMDB
+    - GoogleMaps
+
+EXTERNAL SOURCES:
+  amazon_s3_cognito:
+    :path: ".symlinks/plugins/amazon_s3_cognito/ios"
+  camera:
+    :path: ".symlinks/plugins/camera/ios"
+  Flutter:
+    :path: Flutter
+  flutter_plugin_android_lifecycle:
+    :path: ".symlinks/plugins/flutter_plugin_android_lifecycle/ios"
+  flutter_share:
+    :path: ".symlinks/plugins/flutter_share/ios"
+  flutter_share_file:
+    :path: ".symlinks/plugins/flutter_share_file/ios"
+  geolocator:
+    :path: ".symlinks/plugins/geolocator/ios"
+  google_api_availability:
+    :path: ".symlinks/plugins/google_api_availability/ios"
+  google_maps_flutter:
+    :path: ".symlinks/plugins/google_maps_flutter/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  local_auth:
+    :path: ".symlinks/plugins/local_auth/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  location_permissions:
+    :path: ".symlinks/plugins/location_permissions/ios"
+  location_web:
+    :path: ".symlinks/plugins/location_web/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  path_provider_macos:
+    :path: ".symlinks/plugins/path_provider_macos/ios"
+  permission:
+    :path: ".symlinks/plugins/permission/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  url_launcher_macos:
+    :path: ".symlinks/plugins/url_launcher_macos/ios"
+  url_launcher_web:
+    :path: ".symlinks/plugins/url_launcher_web/ios"
+
+SPEC CHECKSUMS:
+  amazon_s3_cognito: 8e28717f71e9ea482e210a974bc4ecad3894cf68
+  AWSCore: 06beea22b6bdbfe9f5ab5015c6901e8475c746a8
+  AWSS3: ab3965322c8e5ee069eaf9b3201c55557ad21be1
+  camera: 38cc83ae9a5667bb5a71c7d9edaf60a91920fd4e
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_plugin_android_lifecycle: dc0b544e129eebb77a6bfb1239d4d1c673a60a35
+  flutter_share: 4be0208963c60b537e6255ed2ce1faae61cd9ac2
+  flutter_share_file: 52924ead227a84da296c7667cae94eea86962eb5
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  geolocator: 460cc8e850b616f8c0e90944c86517d91ccbb686
+  google_api_availability: 15fa42a8cd83c0a6738507ffe6e87096f12abcb8
+  google_maps_flutter: df4e7de95264aa0a2f11aac0fc7e313acb8ffc7e
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  image_picker: 66aa71bc96850a90590a35d4c4a2907b0d823109
+  local_auth: 25938960984c3a7f6e3253e3f8d962fdd16852bd
+  location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
+  location_permissions: 4a49d4e5bec5b653643e551ab77963cc99bb0e4a
+  location_web: b94e7433cfe28c0f7c8923c2ee482824b32e55a7
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  path_provider_macos: f760a3c5b04357c380e2fddb6f9db6f3015897e0
+  permission: c186483e23779d53def6b55986323494927c22c8
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  sqflite: 4001a31ff81d210346b500c55b17f4d6c7589dd0
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+  url_launcher_macos: fd7894421cd39320dce5f292fc99ea9270b2a313
+  url_launcher_web: e5527357f037c87560776e36436bf2b0288b965c
+
+PODFILE CHECKSUM: a24994cd4fd4b9bb039466c5cc9b4600fc1334ac
+
+COCOAPODS: 1.9.2
